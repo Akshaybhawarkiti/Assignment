@@ -36,7 +36,8 @@ threading
 # My Test Videos
 
 1. Urdf Visualization    : 
-2. Operating in Pybullet :
+2. Operating in Pybullet : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/movement%20visualized.mp4
+3. Manual Mathametically : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/mathematically.mp4
 
 # Manual Matematically 
 
