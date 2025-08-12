@@ -1,2 +1,19 @@
-# Assignment
-this contains all the 3 tasks and their status 
+# Task 1 - Conversion from Euler to Quaternion
+
+This Python program provides a graphical user interface (GUI) to convert between Euler angles and quaternions, along with a real-time 3D orientation visualization.
+
+# Main Features:
+Convert Euler → Quaternion and Quaternion → Euler (vice versa).
+Uses randomly generated angles for quick testing and demonstration.
+Results are shown in both radians and degrees.
+3D visualization of the orientation using Matplotlib’s 3D toolkit.
+GUI interface — no terminal commands required during use.
+Scrollable text output for easy history viewing.
+Threaded execution to keep the interface responsive.
+
+# Dependancies or libs to download
+math
+random
+time
+threading
+tkinter
