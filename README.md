@@ -12,8 +12,8 @@ Scrollable text output for easy history viewing.
 Threaded execution to keep the interface responsive.
 
 # Dependancies or libs to download
-math
-random
-time
-threading
-tkinter
+math /n
+random /n
+time /n
+threading /n
+tkinter /n
