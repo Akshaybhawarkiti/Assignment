@@ -20,7 +20,7 @@ tkinter
 numpy  
 matplotlib  
 
-# How to use
+# How to use (Main Code)
 
 1. Copy the program from the .py file and paste it in your compiler (i used VS Code)   
 link: https://github.com/Akshaybhawarkiti/Assignment/blob/Euler-%E2%86%94-Quaternion-Converter-with-3D-Visualization/Task%201%20main.py   
