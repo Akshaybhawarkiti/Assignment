@@ -47,6 +47,6 @@ threading
   manual code link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/manual%20Mathematically.py
 
 3. Download all dependencies mentioned above.
-4. Run the program — PyBullet will open the 3D simulation window, and Tkinter will open the coordinate display window.
-5. Adjust the sliders in PyBullet to move the robot and watch the coordinates update live.
+4. Run the program —  3D window will pop up with sliders form 0 to 180 range.
+5. Adjust the sliders in window to move the robot and watch the coordinates update live.
 
