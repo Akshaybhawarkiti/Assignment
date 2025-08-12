@@ -17,6 +17,11 @@ ROS 2 (Humble) installed and sourced.
 Python 3 (comes with ROS 2).   
 rclpy (ROS 2 Python client library).
 
+# Video   
+link : https://github.com/Akshaybhawarkiti/Assignment/blob/Ros-pub-Sub/video.mp4   
+
+Downloadraw video file to see in local video player
+
 # pip install for Subscriber   
 
 from ros2_simple_sub import run_subscriber
@@ -24,6 +29,8 @@ from ros2_simple_sub import run_subscriber
 # pip install for publisher   
 
 from ros2_simple_pub import run_publisher
+
+
 
 
 
