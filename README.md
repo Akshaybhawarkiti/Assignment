@@ -12,8 +12,8 @@ link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of
 
 # ROS 
 
-1. Task 1 - ROS 2 Pub/Sub
-   link :
+Task 1 - ROS 2 Pub/Sub   
+link :
 
-2. Task 2 - Behavior Tree – This will need C++
-    link :
+Task 2 - Behavior Tree – This will need C++   
+link :
