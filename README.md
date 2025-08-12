@@ -1,6 +1,6 @@
 # Assignment
 
-Below are the tak and their respective link to their branches to view
+Below are the task and their respective link to branches
 
 # Maths
 
