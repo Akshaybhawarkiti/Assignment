@@ -5,13 +5,13 @@ It allows you to move the robot joints using on-screen sliders and instantly see
 
 # Main Features:
 
-Interactive PyBullet 3D simulation of a robot arm.  
-Adjustable joint angles using on-screen sliders (degrees).  
-A red ball marker is attached to the chosen link for easy position tracking.  
-Live X, Y, Z coordinate display in a separate Tkinter window.  
-Forward kinematics visualization without needing manual math calculations.  
-Real-time updates with smooth motion.  
-GUI and simulation run simultaneously via multi-threading.
+- Interactive PyBullet 3D simulation of a robot arm.  
+- Adjustable joint angles using on-screen sliders (degrees).  
+- A red ball marker is attached to the chosen link for easy position tracking.  
+- Live X, Y, Z coordinate display in a separate Tkinter window.  
+- Forward kinematics visualization without needing manual math calculations.  
+- Real-time updates with smooth motion.  
+- GUI and simulation run simultaneously via multi-threading.
 
 # Dependencies or Libraries to Download
 
