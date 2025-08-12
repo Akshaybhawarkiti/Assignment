@@ -12,7 +12,7 @@ Below are the tak and their respective link to their branches to view
 
 # ROS 
 
-1. Task 1 - ROS 2 Pub/Sub/Service – this will need Ubuntu
+1. Task 1 - ROS 2 Pub/Sub
    link :
 
 2. Task 2 - Behavior Tree – This will need C++
