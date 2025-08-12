@@ -25,8 +25,8 @@ threading
 # How to use (Main Code)
 
 1. Copy the program from the .py file and paste it in your compiler (I used VS Code).
-Note: Update the .urdf file path in the code to your robot’s URDF file location.
+   Note: Update the .urdf file path in the code to your robot’s URDF file location.
 
-2. Download all dependencies mentioned above.
-3. Run the program — PyBullet will open the 3D simulation window, and Tkinter will open the coordinate display window.
-4. Adjust the sliders in PyBullet to move the robot and watch the coordinates update live.
+3. Download all dependencies mentioned above.
+4. Run the program — PyBullet will open the 3D simulation window, and Tkinter will open the coordinate display window.
+5. Adjust the sliders in PyBullet to move the robot and watch the coordinates update live.
