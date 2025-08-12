@@ -22,5 +22,12 @@ matplotlib
 
 # How to use
 
-Copy the program from the .py file and paste it in your compiler (i used VS Code)   
-link:
+1. Copy the program from the .py file and paste it in your compiler (i used VS Code)   
+link: https://github.com/Akshaybhawarkiti/Assignment/blob/Euler-%E2%86%94-Quaternion-Converter-with-3D-Visualization/Task%201%20main.py   
+
+2. Download all the Dependancies mentioned above
+3. Run the program to visulize
+
+# My Test Run video   
+link: 
+
