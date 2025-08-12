@@ -38,7 +38,7 @@ threading
 1. Copy the program from the .py file and paste it in your compiler (I used VS Code).
 
   Note: Update the .urdf file path in the code to your robot’s URDF file location.   
-  main code link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/Main.py
+  main code link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/manual%20Mathematically.py
 
 3. Download all dependencies mentioned above.
 4. Run the program — PyBullet will open the 3D simulation window, and Tkinter will open the coordinate display window.
