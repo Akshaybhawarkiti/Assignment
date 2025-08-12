@@ -19,3 +19,8 @@ threading
 tkinter  
 numpy  
 matplotlib  
+
+# How to use
+
+Copy the program from the .py file and paste it in your compiler (i used VS Code)   
+link:
