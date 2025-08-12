@@ -5,13 +5,13 @@ import math
 import tkinter as tk
 from threading import Thread
 
-# Shared variable for coordinates
+
 coords = [0.0, 0.0, 0.0]
 
 def pybullet_loop():
     global coords
 
-    # ---- PyBullet setup ----
+
     p.connect(p.GUI)
     p.setAdditionalSearchPath(pybullet_data.getDataPath())
 
@@ -33,24 +33,24 @@ def pybullet_loop():
     ball = p.createMultiBody(baseMass=0, baseVisualShapeIndex=ball_vis, basePosition=[0, 0, 0])
 
     while True:
-        # Read sliders and move joints
+       
         for idx, slider_id in zip(joint_indices, joint_sliders):
             angle_deg = p.readUserDebugParameter(slider_id)
             angle_rad = math.radians(angle_deg)
             p.resetJointState(robot, idx, angle_rad)
 
-        # Get ball position
+       
         link_state = p.getLinkState(robot, link_index_for_ball)
         link_pos = link_state[0]
-        coords = list(link_pos)  # update shared variable
+        coords = list(link_pos)  
 
-        # Move ball
+        
         p.resetBasePositionAndOrientation(ball, link_pos, [0, 0, 0, 1])
 
         p.stepSimulation()
         time.sleep(0.01)
 
-# ---- Tkinter UI ----
+
 root = tk.Tk()
 root.title("Ball Coordinates")
 root.geometry("250x120")
@@ -68,13 +68,10 @@ def update_labels():
     label_x.config(text=f"X = {coords[0]:.3f}")
     label_y.config(text=f"Y = {coords[1]:.3f}")
     label_z.config(text=f"Z = {coords[2]:.3f}")
-    root.after(50, update_labels)  # update every 50 ms
+    root.after(50, update_labels)  
 
-# Start PyBullet in another thread
+
 Thread(target=pybullet_loop, daemon=True).start()
-
-# Start updating labels
 update_labels()
-
-# Run Tkinter main loop in the main thread
 root.mainloop()
+
