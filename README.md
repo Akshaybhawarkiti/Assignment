@@ -35,7 +35,7 @@ imp: to view please Download the video
 
 # Use this in case you wanna give custom eular values
 1. Copy the program from the .py file and paste it in your compiler (i used VS Code)   
-link: https://github.com/Akshaybhawarkiti/Assignment/blob/Euler-%E2%86%94-Quaternion-Converter-with-3D-Visualization/Task%201%20main.py   
+link: https://github.com/Akshaybhawarkiti/Assignment/blob/Euler-%E2%86%94-Quaternion-Converter-with-3D-Visualization/Custom.py
 
 2. Download all the Dependancies mentioned above
 3. Run the program to visulize
