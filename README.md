@@ -15,11 +15,11 @@ It allows you to move the robot joints using on-screen sliders and instantly see
 
 # Dependencies or Libraries to Download
 
-pybullet
-pybullet_data
-time
-math
-tkinter
+pybullet  
+pybullet_date  
+time  
+math  
+tkinter  
 threading
 
 # How to use (Main Code)
@@ -38,7 +38,7 @@ threading
 1. Copy the program from the .py file and paste it in your compiler (I used VS Code).
 
   Note: Update the .urdf file path in the code to your robot’s URDF file location.   
-  main code link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/manual%20Mathematically.py
+  manual code link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/manual%20Mathematically.py
 
 3. Download all dependencies mentioned above.
 4. Run the program — PyBullet will open the 3D simulation window, and Tkinter will open the coordinate display window.
