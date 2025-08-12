@@ -1,19 +1,32 @@
-# Assignment
+# ROS 2 Publisher and Subscriber Example   
+This project demonstrates a simple ROS 2 Publisher and Subscriber setup.   
+The publisher sends messages, and the subscriber receives and processes them in real-time.
 
-Below are the task and their respective link to branches
+# Main Features:  
 
-# Maths
+-Basic ROS 2 Publisher node sending messages on a topic.   
+-Subscriber node receiving and printing messages.  
+-Clear demonstration of ROS 2 communication concepts.   
+-Easy to extend for complex robotics applications.   
+-Tested with Python ROS 2 client libraries (rclpy).  
+-Includes example code and a demonstration video.
 
-Task 1 - Conversion from Euler to Quaternion via versa     
-link : https://github.com/Akshaybhawarkiti/Assignment/blob/Euler-%E2%86%94-Quaternion-Converter-with-3D-Visualization/README.md
+# Dependencies or Libraries to Install
 
-Task 2: Forward Kinematics    
-link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/README.md
+ROS 2 (Humble) installed and sourced.  
+Python 3 (comes with ROS 2).   
+rclpy (ROS 2 Python client library).
 
-# ROS 
+# pip install for Subscriber   
 
-Task 1 - ROS 2 Pub/Sub   
-link :
+from ros2_simple_sub import run_subscriber
 
-Task 2 - Behavior Tree   
-link :
+# pip install for publisher   
+
+from ros2_simple_pub import run_publisher
+
+
+
+
+
+How to Install ROS 2 (Basic Instructions)
