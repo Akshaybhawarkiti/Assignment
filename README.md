@@ -43,8 +43,7 @@ threading
 # Manual Matematically 
 
 1. Copy the program from the .py file and paste it in your compiler (I used VS Code).
-
-  Note: Update the .urdf file path in the code to your robot’s URDF file location.   
+ 
   manual code link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/manual%20Mathematically.py
 
 3. Download all dependencies mentioned above.
