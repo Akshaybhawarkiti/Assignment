@@ -1,0 +1,25 @@
+#!/usr/bin/env python3
+
+from ros2_simple_sub import run_subscriber
+recive = []
+run_subscriber(storage=recive)
+for msg in recive:
+    print("Received:", msg)
+
+
+
+# custom
+# from ros2_simple_sub import run_subscriber
+
+# received_messages = []
+
+# run_subscriber(
+#     node_name="custom_node",
+#     msg_type="Float64",
+#     topic_name="sensor_data",
+#     queue_size=5,
+#     storage=received_messages
+# )
+
+# for msg in received_messages:
+#     print("Received:", msg)
