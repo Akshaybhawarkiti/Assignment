@@ -33,3 +33,9 @@ Before building this project, make sure you have:
 - build the cmake and waith for success
 - onces done run the main cpp code with terminal
 - command for terminal ".\build\Debug\bt_main.exe"
+
+# Files 
+
+Cmake.txt =   
+Main.cpp =     
+Video =    
