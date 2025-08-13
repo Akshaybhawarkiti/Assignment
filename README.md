@@ -1,19 +1,35 @@
-# Assignment
+# BehaviorTree.CPP Example — Fetch Apple Scenario
 
-Below are the task and their respective link to branches
+This project demonstrates a simple **BehaviorTree.CPP** application where a robot performs the following sequence of tasks:
 
-# Maths
+1. Move towards a room door
+2. Open the door if it is closed
+3. Enter the room
+4. Move towards the fridge
+5. Open the fridge if it is closed
+6. Find an apple
+7. Pick the apple
+8. Close the fridge door
+9. Move back to the room door
+10. Exit the room
 
-Task 1 - Conversion from Euler to Quaternion via versa     
-link : https://github.com/Akshaybhawarkiti/Assignment/blob/Euler-%E2%86%94-Quaternion-Converter-with-3D-Visualization/README.md
+The behavior is modeled using the **BehaviorTree.CPP** library
 
-Task 2: Forward Kinematics    
-link : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/README.md
 
-# ROS 
+## 📦 Dependencies
 
-Task 1 - ROS 2 Pub/Sub   
-link :
+Before building this project, make sure you have:
 
-Task 2 - Behavior Tree   
-link :
+- **C++17 or later**  
+- **CMake** (minimum version 3.10 recommended)  
+- **VS Code** (optional, but recommended)  
+- **BehaviorTree.CPP v4.x** library installed  
+- **Compiler**:
+  - Windows: MSVC (Visual Studio Build Tools)  
+
+# How to run the file 
+
+- add cmake.txt file and the main.cpp file in same directory
+- build the cmake and waith for success
+- onces done run the main cpp code with terminal
+- command for terminal ".\build\Debug\bt_main.exe"
