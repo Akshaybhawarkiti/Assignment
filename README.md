@@ -17,3 +17,8 @@ link :
 
 Task 2 - Behavior Tree   
 link : https://github.com/Akshaybhawarkiti/Assignment/blob/behaviour-tree/README.md
+
+
+# Model    
+
+Video Link : https://drive.google.com/drive/folders/1hViwN1EjnYn8q7dVbR9I6pxEHgk_Zf3c?usp=sharing
