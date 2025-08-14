@@ -42,10 +42,10 @@ threading
    
    Or   
 
-1. Urdf Visualization    : https://drive.google.com/file/d/1Awl1yGFxE2n95alId7zvfr6Lt5RJiHfk/view?usp=drive_link
-2. Operating in Pybullet : https://drive.google.com/file/d/18No_jR2iH69wTz1cSE7jdTtPWPwJnyl_/view?usp=drive_link
-3. Manual Mathametically : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/mathematically.mp4
-
+1. Urdf Visualization    : https://drive.google.com/file/d/1Awl1yGFxE2n95alId7zvfr6Lt5RJiHfk/view?usp=drive_link      
+2. Operating in Pybullet : https://drive.google.com/file/d/18No_jR2iH69wTz1cSE7jdTtPWPwJnyl_/view?usp=drive_link     
+3. Manual Mathametically : https://drive.google.com/file/d/19jyrpSpv-V8TQuTKwR4biYXgCFG26phW/view?usp=drive_link
+   
 # Manual Matematically 
 
 1. Copy the program from the .py file and paste it in your compiler (I used VS Code).
