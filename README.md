@@ -39,6 +39,12 @@ threading
 1. Urdf Visualization    : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/urdf.mp4
 2. Operating in Pybullet : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/movement%20visualized.mp4
 3. Manual Mathametically : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/mathematically.mp4
+   
+   Or   
+
+1. Urdf Visualization    : https://drive.google.com/file/d/1Awl1yGFxE2n95alId7zvfr6Lt5RJiHfk/view?usp=drive_link
+2. Operating in Pybullet : https://drive.google.com/file/d/18No_jR2iH69wTz1cSE7jdTtPWPwJnyl_/view?usp=drive_link
+3. Manual Mathametically : https://github.com/Akshaybhawarkiti/Assignment/blob/forward-kinematics-of-the-robot/mathematically.mp4
 
 # Manual Matematically 
 
